@@ -1,25 +1,25 @@
 {
-  "name": "async-function",
-  "version": "0.1.0",
-  "description": "Expose internal AsyncFunction constructor",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EduardoRFS/async-function.git"
-  },
-  "keywords": [
-    "async",
-    "await",
-    "function",
-    "native"
-  ],
-  "author": "EduardoRFS",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EduardoRFS/async-function/issues"
-  },
-  "homepage": "https://github.com/EduardoRFS/async-function#readme"
+	"name": "async-function",
+	"version": "0.1.0",
+	"description": "A function that returns the normally hidden `AsyncFunction` constructor",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/async-function.git"
+	},
+	"keywords": [
+		"async",
+		"await",
+		"function",
+		"native"
+	],
+	"author": "Jordan Harbamd <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/async-function/issues"
+	},
+	"homepage": "https://github.com/ljharb/async-function#readme"
 }
