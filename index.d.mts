@@ -1,3 +1,3 @@
-import getAsyncFunction = require('.');
+import getAsyncFunction = require('./index.js');
 
 export default getAsyncFunction;
