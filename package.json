@@ -48,9 +48,9 @@
 	},
 	"homepage": "https://github.com/ljharb/async-function#readme",
 	"devDependencies": {
-		"@arethetypeswrong/cli": "^0.17.3",
-		"@ljharb/eslint-config": "^21.1.1",
-		"@ljharb/tsconfig": "^0.2.3",
+		"@arethetypeswrong/cli": "^0.18.2",
+		"@ljharb/eslint-config": "^21.2.0",
+		"@ljharb/tsconfig": "^0.3.2",
 		"@types/semver": "^6.2.7",
 		"@types/tape": "^5.8.1",
 		"auto-changelog": "^2.5.0",
