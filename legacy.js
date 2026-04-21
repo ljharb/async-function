@@ -1,9 +1,9 @@
 'use strict';
 
-/** @type {import('.').AsyncFunctionConstructor | false} */
+/** @type {import('./index.d.ts').AsyncFunctionConstructor | false} */
 var cached;
 
-/** @type {import('.')} */
+/** @type {import('./index.d.ts')} */
 module.exports = function getAsyncFunction() {
 	if (typeof cached === 'undefined') {
 		try {
